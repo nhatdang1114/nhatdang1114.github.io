@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Viêm họng cấp"
+date: 2019-04-30
 ---
-
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+ Triệu chứng bệnh Viêm họng cấp:
+-Đau họng, khô và rát họng
+-Triệu chứng cúm: hắt hơi, sổ mũi, ho, đau đầu, đau cơ toàn thân, chán ăn..
+-Nổi hạch, phát ban, buồn nôn, nuốt khó
