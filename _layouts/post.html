@@ -1,11 +1,26 @@
 ---
 layout: default
 ---
-<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+
 <h1>{{ page.title }}</h1>
 <p class="meta">{{ page.date | date_to_string }}</p>
 
 <div class="post">
   {{ content }}
 </div>
+
+
+<html>
+<head>
+  <title>Comments</title>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>
+    window.addEventListener("load",function() {
+      commentBox('5733390238089216-proj');
+    });
+   </script>
+</head>  
+<body>
 <div class="commentbox"></div>
+</body>
+</html>
