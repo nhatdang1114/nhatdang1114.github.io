@@ -25,7 +25,7 @@
       var pair = vars[i].split('=');
 
       if (pair[0] === variable) {
-        return decodeURIComponent(pair[1]);
+        return decodeURIComponent(pair[1].replace(/\+/g, '%20'));
       }
     }
   }
